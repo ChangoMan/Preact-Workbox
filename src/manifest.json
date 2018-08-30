@@ -1,6 +1,6 @@
 {
-  "name": "preact-sw-magic",
-  "short_name": "preact-sw-magic",
+  "name": "preact-workbox",
+  "short_name": "preact-workbox",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
